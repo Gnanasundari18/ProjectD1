@@ -6,6 +6,7 @@ public class NewClass {
 		
 		System.out.println("Git Tool");
 		System.out.println("Upload a Code");
+		System.out.println("3rd line");
 	}
 	
 
